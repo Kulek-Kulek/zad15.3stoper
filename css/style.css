@@ -1,9 +1,11 @@
 .controls, .stopwatch {
-	margin: 100px 400px 0 600px;
+}
+#app{
+	padding: 100px 0;
 }
 
 .controls #start, .controls #stop {
-	padding: 30px 60px;
+
 	font-size: 40px;
 	font-weight: bold;
 	text-decoration: none;
@@ -13,9 +15,8 @@
 }
 
 .stopwatch {
-	margin: 30px 700px 0 700px;
+	/*margin: 30px 700px 0 700px;*/
 	font-size: 50px;
 	font-weight: bold;
 	background-color: lightblue;
-	
 }
